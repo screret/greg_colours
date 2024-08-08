@@ -28,6 +28,7 @@ Future<void> main() async {
     ItemSet.lignite: IconGenerator.linear,
     ItemSet.metallic: IconGenerator.raiseMidtones,
     ItemSet.netherstar: IconGenerator.linear,
+    ItemSet.opal: IconGenerator.linear,
     ItemSet.quartz: IconGenerator.linear,
     ItemSet.rough: IconGenerator.linear,
     ItemSet.ruby: IconGenerator.linear,
