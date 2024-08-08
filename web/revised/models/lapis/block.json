@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gtceu:item/material_sets/lapis/block",
+    "layer1": "gtceu:item/material_sets/lapis/block_secondary"
+  }
+}
